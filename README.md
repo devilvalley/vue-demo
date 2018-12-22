@@ -1,4 +1,4 @@
-# vue1
+# vue demo
 
 ## Project setup
 ```
@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+技术栈：
+vue+router+element-ui
