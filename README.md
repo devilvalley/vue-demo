@@ -1,4 +1,6 @@
 # vue demo
+技术栈：
+vue++vue-cli3+vue-router+npm+element-ui
 
 ## Project setup
 ```
